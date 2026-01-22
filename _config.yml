@@ -1,5 +1,4 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [Lamia Hasan Rodoshi]
-description: [I am a dedicated Computer Science Graduate Research Assistant, specializing in Security and Privacy. My research and professional interest span Data Analysis, Software development, Artificial Intelligence, AI Agents, NLP, LLMs, Cyber Security, and System Security & Privacy. My background includes hands-on knowledge of AI Agents, Model Context Protocols (MCP), PoC generation and exploits, and Attacks of Generative AI.]
+description: [https://github.com/LamiaHasanRodoshi/portfolio/blob/main/images/Rodoshi.png]
