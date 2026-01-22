@@ -1,20 +1,6 @@
 ## 👩‍💻 Profile Summary
 
-I am a dedicated **Computer Science Graduate Research Assistant**, specializing in **Security and Privacy**. My research and professional interest span **Data Analysis, Software development, Artificial Intelligence, AI Agents, NLP, LLMs, Cyber Security, and System Security & Privacy**. My background includes hands-on knowledge of **AI Agents, Model Context Protocols (MCP), RAG pipelines, Dockerized testing, PoC generation and exploits, and Attacks of Generative AI**.
-
----
-
-## 🎓 Education
-
-**Master of Science in Computer Science**  
-*University of Texas at Arlington*  
-📅 Aug 2024 – May 2026 (Expected)  
-📊 CGPA: **3.78 / 4.00**
-
-**Bachelor of Science in Computer Science & Engineering**  
-*BRAC University, Bangladesh*  
-📅 May 2019 – Mar 2023  
-📊 CGPA: **3.70 / 4.00**
+I am a dedicated **Computer Science Graduate Research Assistant**, specializing in **Security and Privacy**. My research and professional interest span **Data Analysis, Software development, Artificial Intelligence, AI Agents, NLP, LLMs, Cyber Security, and System Security & Privacy**. My background includes hands-on knowledge of **AI Agents, Model Context Protocols (MCP), RAG pipelines, Dockerized testing, PoC generation and exploits, and Attacks of Generative AI**. I am doing master of science in Computer Science at *University of Texas at Arlington* and completed my bachelor's degree in Computer Science and Engineering from BRAC university of Bangladesh in 2023.
 
 ---
 
@@ -22,7 +8,7 @@ I am a dedicated **Computer Science Graduate Research Assistant**, specializing 
 
 ### Graduate Research Assistant  
 **Cyber Guard Research Lab**  
-Supervisor: *Dr. Faysal Hossain Shezan*  
+Supervisor: [*Dr. Faysal Hossain Shezan* ](https://fhshezan.github.io/) 
 📅 Oct 2023 – Present  
 
 #### 🧪 Project 1: Automated PoC of Vulnerability Generation with LLMs
@@ -91,7 +77,7 @@ AWS, Microsoft Azure
 ## 📄 Publications & Achievements
 
 - **IEEE S&P 2024 (Poster)**  
-  *“Identifying Copyright Code in Training Corpus of Large Language Models”*  
+  [*“Identifying Copyright Code in Training Corpus of Large Language Models”*](https://sp2024.ieee-security.org/downloads/SP24-posters/sp24posters-final16.pdf)  
   Lamia H. Rodoshi et al.
 
 - 🏆 **2nd Runner-Up**, MIST Inter-University ICT Innovation Fest 2021  
